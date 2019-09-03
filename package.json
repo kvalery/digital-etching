@@ -1,0 +1,22 @@
+{
+  "name": "digital-etching",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kvalery/digital-etching.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvalery/digital-etching/issues"
+  },
+  "homepage": "https://github.com/kvalery/digital-etching#readme",
+  "dependencies": {
+    "upng-js": "^2.1.0"
+  }
+}
